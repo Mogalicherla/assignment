@@ -1,7 +1,7 @@
 #Assignment
 
 * Fork this repository
-* Create a feature branch
+* Create a feature branch (New Branch Name - readme-edits)
 * Implement a basic search app in accordance with the supplied PDF
 * The search can be performed against ANY publically available REST-api using javascript
 * Search against title, display the title (or equivalent)
